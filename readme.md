@@ -1,10 +1,10 @@
-#### java json生成与解析
+#### java xml处理工具类
 
-* gson (google)
+* jdom (待续)
 
-* jackson (spring集成)
+* dom4j (待续)
 
-* json lib (老牌, 据说正在被jackson取代)
+* jackson (jackson附加功能)
 
-* json org (官方提供, 功能较弱)
+* jsonlib (jsonlib附加功能)
 
